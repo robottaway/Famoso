@@ -1,57 +1,93 @@
 <div class="second">
-  <p class="Header2"><img src="img/Contacts_Office_Contacts.jpg" width="300" height="60" alt="Office Contacts" /></p>
+  <p class="Header2">Sales</p>
   <div align="center">
     <table width="640" border="0" class="contact_table">
       <tr>
-        <td width="320" bgcolor="#F4FEED"><p align="center"><strong>Famoso Nut Company</strong></p>
-          <p align="center">32331 Famoso Road</p>
-          <p align="center">McFarland, CA 93250</p>
-          <p align="center">661.399.9697</p></td>
-        <td width="320" bgcolor="#F4FEED"><p align="center"><strong>Famoso Nut Company Sales</strong></p>
-          <p align="center">5100 California Ave. #208</p>
-          <p align="center">Bakersfield, CA 93309</p>
-          <p align="center">661.325.9189</p></td>
-        </tr>
+        <td width="320" bgcolor="#F4FEED"><p align="center"><strong>Famoso Nut Company Sales</strong></p></td>
+        <td width="320" bgcolor="#F4FEED"><p align="center"><strong>Phone (661)325-9189</strong></p></td>
+      </tr>
+      <tr>
+        <td width="320" bgcolor="#F4FEED"><p align="center"><strong>5100 California Ave. #208<br/>Bakersfield, CA 93309</strong></p></td>
+        <td width="320" bgcolor="#F4FEED"><p align="center"><strong>Fax (661)325-4135</strong></p></td>
+      </tr>
+      <tr>
+      <td bgcolor="#F4FEED">
+        <p align="center">Gary Cross</p>
+        <p align="center"><a href="mailto:gary@famosonutsales.com">gary@famosonutsales.com</a></p>
+      </td>
+      <td bgcolor="#F4FEED">
+        <p align="center">Wendi Haggard</p>
+        <p align="center"><a href="mailto:wendi@famosonutsales.com">wendi@famosonutsales.com</a></p>
+      </td>
+      </tr>
     </table>
   </div>
   <p></p>
-  <p class="Header2"><img src="img/Contacts_Plant_Contacts.jpg" width="300" height="60" alt="Plant Contacts" /></p>
+  <p class="Header2">Operations</p>
+    <table width="640" height="125" align="center" class="contact_table">
+    <tr>
+        <td><strong>Famoso Nut Company</strong></td>
+        <td><strong>Phone (661) 399-9697</strong></td>
+    </tr>
+    <tr>
+        <td><strong>32331 Famoso Road<br/>Mc Farland, CA 93250</strong></td>
+        <td><strong>Fax (661) 399-5942</strong></td>
+    </tr>
+    </table>
     <table width="640" height="325" border="0" align="center" class="contact_table">
     <tr>
-      <td width="213" height="104" bgcolor="#F4FEED"><p align="center"><strong>Chief Operations Officer</strong></p>
-        <p align="center">Chad Derose</p>
-        <p align="center"><a href="mailto:Chad@Famosonut.com">Chad@Famosonut.com</a></p></td>
-      <td width="213" nowrap="nowrap" bgcolor="#F4FEED"><p align="center"><strong>Chief Financial Officer</strong></p>
-        <p align="center">Tom Antongiovanni</p>
-        <p align="center"><a href="mailto:Tom@Famosonut.com">Tom@Famosonut.com</a></p></td>
-      <td width="214" bgcolor="#F4FEED"><p align="center"><strong>Sales Manager</strong></p>
-        <p align="center">Gary Cross</p>
-        <p align="center"><a href="mailto:Nuts@BlueSkySales.Com">Nuts@BlueSkySales.Com</a></p></td>
+      <td width="213" height="104" bgcolor="#F4FEED">
+        <p align="center"><strong>Chad Derose</strong></p>
+        <p align="center">Chief Operations Officer</p>
+        <p align="center"><a href="mailto:chad@famosonut.com">chad@famosonut.com</a></p>
+      </td>
+      <td width="213" nowrap="nowrap" bgcolor="#F4FEED">
+        <p align="center"><strong>Tom Antongiovanni</strong></p>
+        <p align="center">Chief Financial Officer</p>
+        <p align="center"><a href="mailto:tom@famosonut.com">tom@famosonut.com</a></p>
+      </td>
+      <td width="214" bgcolor="#F4FEED">
+        <p align="center"><strong>Stephen Sangalli</strong></p>
+        <p align="center">Director of Production</p>
+        <p align="center"><a href="mailto:sangalli@famosonut.com">sangalli@famosonut.com</a></p>
+      </td>
     </tr>
     <tr>
-      <td bgcolor="#F4FEED"><p align="center"><strong>Safety/Receiving</strong></p>
-        <p align="center">Anna Maria Bravo</p>
-        <p align="center"><a href="mailto:anna@Famosonut.com">Anna@Famosonut.com</a></p></td>
-      <td nowrap="nowrap" bgcolor="#F4FEED"><p align="center"><strong>Director of Production</strong></p>
-        <p align="center">Stephen Sangalli</p>
-        <p align="center"><a href="mailto:Sangalli@Famosonut.com">Sangalli@Famosonut.com</a></p></td>
-      <td bgcolor="#F4FEED"><p align="center"><strong>Analyst</strong></p>
-        <p align="center">David Delis</p>
-        <p align="center"><a href="mailto:David@Famosonut.com">David@Famosonut.com</a></p></td>
-    </tr>
-    <tr>
-      <td height="105" bgcolor="#F4FEED"><p align="center"><strong>Grower Services</strong></p>
-        <p align="center">Teresa Williams</p>
-        <p align="center"><a href="mailto:teresa@famosonut.com">Teresa@Famosonut.com</a></p></td>
-      <td nowrap="nowrap" bgcolor="#F4FEED"><p align="center"><strong>Shipping</strong></p>
-        <p align="center">Marysol Briseno</p>
-        <p align="center"><a href="mailto:Marysol@Famosonut.com">Marysol@Famosonut.com</a></p></td>
-      <td nowrap="nowrap" bgcolor="#F4FEED"><p align="center"><strong>Production Manager</strong></p>
+      <td nowrap="nowrap" bgcolor="#F4FEED">
+        <p align="center"><strong>Production Manager</strong></p>
 	    <p align="center">Dominique Camou</p>
-	    <p align="center"><a href="mailto:Dominique@Famosonut.com">Dominique@Famosonut.com</a></p></td>
+	    <p align="center"><a href="mailto:dominique@famosonut.com">dominique@famosonut.com</a></p>
+      </td>
+      <td height="105" bgcolor="#F4FEED">
+        <p align="center"><strong>Teresa Williams</strong></p>
+        <p align="center">Grower Services</p>
+        <p align="center"><a href="mailto:teresa@famosonut.com">teresa@famosonut.com</a></p>
+      </td>
+      <td bgcolor="#F4FEED">
+        <p align="center"><strong>Anna Maria Bravo</strong></p>
+        <p align="center">Office Administrator</p>
+        <p align="center"><a href="mailto:anna@famosonut.com">anna@famosonut.com</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap" bgcolor="#F4FEED">
+        <p align="center"><strong>Marysol Sanchez</strong></p>
+        <p align="center">Shipping Logistics</p>
+        <p align="center"><a href="mailto:marysol@famosonut.com">marysol@famosonut.com</a></p>
+      </td>
+      <td bgcolor="#F4FEED">
+        <p align="center"><strong>David Delis</strong></p>
+        <p align="center">Analyst</p>
+        <p align="center"><a href="mailto:david@famosonut.com">david@famosonut.com</a></p>
+      </td>
+      <td bgcolor="#F4FEED">
+        <p align="center"><strong>Nancy Olvera</strong></p>
+        <p align="center">Accounts Payable</p>
+        <p align="center"><a href="mailto:nancy@famosonut.com">nancy@famosonut.com</a></p>
+      </td>
     </tr>
   </table>
-  <p class="Header2"><img src="img/Contacts_Directions.jpg" width="300" height="60" alt="directions" /></p>
+  <p class="Header2">Location</p>
   <p class="Header2">32331 Famoso Road McFarland, CA 93250 • (661)399-9697</p>
   <div id="map">
 		<div id="map_canvas" style="width:700px; height:700px; margin: 0;"></div>
