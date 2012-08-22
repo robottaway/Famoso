@@ -4,6 +4,7 @@
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 @import "compass/typography/links/link-colors";
 @import "compass/typography/links/unstyled-link";
+@import "compass/css3/border-radius";
 
 @charset "utf-8";
 
@@ -43,8 +44,9 @@ body {
   margin-bottom: 0;
   margin-left: auto;
   padding-top: 10px;
-  -moz-border-radius: 30px;
-  -webkit-border-radius: 30px; }
+  @include border-radius(30px);
+}
+  
 
 #header {
   position: relative;
@@ -166,9 +168,7 @@ table.contact_table {
 	margin-right: 78px;
 	margin-left: 78px;
 	text-align: center;
-	border: 10px solid #9B9B9B;
-	-moz-border-radius: 15px;
-    -webkit-border-radius: 15px; }
+}
 
 #slideshow {
     img {

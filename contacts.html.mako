@@ -4,11 +4,11 @@
     <table width="640" border="0" class="contact_table">
       <tr>
         <td width="320" bgcolor="#F4FEED"><p align="center"><strong>Famoso Nut Company Sales</strong></p></td>
-        <td width="320" bgcolor="#F4FEED"><p align="center"><strong>Phone (661)325-9189</strong></p></td>
+        <td width="320" bgcolor="#F4FEED"><p align="center"><strong>Phone (661) 325-9189</strong></p></td>
       </tr>
       <tr>
         <td width="320" bgcolor="#F4FEED"><p align="center"><strong>5100 California Ave. #208<br/>Bakersfield, CA 93309</strong></p></td>
-        <td width="320" bgcolor="#F4FEED"><p align="center"><strong>Fax (661)325-4135</strong></p></td>
+        <td width="320" bgcolor="#F4FEED"><p align="center"><strong>Fax (661) 325-4135</strong></p></td>
       </tr>
       <tr>
       <td bgcolor="#F4FEED">
@@ -26,12 +26,12 @@
   <p class="Header2">Operations</p>
     <table width="640" height="125" align="center" class="contact_table">
     <tr>
-        <td><strong>Famoso Nut Company</strong></td>
-        <td><strong>Phone (661) 399-9697</strong></td>
+        <td bgcolor="#F4FEED"><strong>Famoso Nut Company</strong></td>
+        <td bgcolor="#F4FEED"><strong>Phone (661) 399-9697</strong></td>
     </tr>
     <tr>
-        <td><strong>32331 Famoso Road<br/>Mc Farland, CA 93250</strong></td>
-        <td><strong>Fax (661) 399-5942</strong></td>
+        <td bgcolor="#F4FEED"><strong>32331 Famoso Road<br/>Mc Farland, CA 93250</strong></td>
+        <td bgcolor="#F4FEED"><strong>Fax (661) 399-5942</strong></td>
     </tr>
     </table>
     <table width="640" height="325" border="0" align="center" class="contact_table">
@@ -88,7 +88,7 @@
     </tr>
   </table>
   <p class="Header2">Location</p>
-  <p class="Header2">32331 Famoso Road McFarland, CA 93250 • (661)399-9697</p>
+  <p class="Header2">32331 Famoso Road McFarland, CA 93250 • (661) 399-9697</p>
   <div id="map">
 		<div id="map_canvas" style="width:700px; height:700px; margin: 0;"></div>
   </div>

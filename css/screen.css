@@ -3,7 +3,7 @@
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-/* line 10, ../sass/screen.scss */
+/* line 11, ../sass/screen.scss */
 body {
   margin: 0;
   text-align: center;
@@ -20,21 +20,21 @@ body {
   background-attachment: fixed;
 }
 
-/* line 25, ../sass/screen.scss */
+/* line 26, ../sass/screen.scss */
 .Footer {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 12pt;
   font-style: italic;
 }
 
-/* line 30, ../sass/screen.scss */
+/* line 31, ../sass/screen.scss */
 #wrapper {
   background-repeat: repeat-x;
   background-position: center 450px;
   left: 0px;
 }
 
-/* line 35, ../sass/screen.scss */
+/* line 36, ../sass/screen.scss */
 #container {
   width: 876px;
   /* using 20px less than a full 800px width allows for browser chrome and avoids a horizontal scroll bar */
@@ -46,41 +46,44 @@ body {
   margin-bottom: 0;
   margin-left: auto;
   padding-top: 10px;
-  -moz-border-radius: 30px;
   -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  border-radius: 30px;
 }
 
-/* line 49, ../sass/screen.scss */
+/* line 51, ../sass/screen.scss */
 #header {
   position: relative;
   text-align: left;
   height: 220px;
   padding-top: 0;
 }
-/* line 54, ../sass/screen.scss */
+/* line 56, ../sass/screen.scss */
 #header > img {
   width: 470px;
   height: 220px;
 }
-/* line 57, ../sass/screen.scss */
+/* line 59, ../sass/screen.scss */
 #header h1 {
   margin: 0;
   /* zeroing the margin of the last element in the #header div will avoid margin collapse - an unexplainable space between divs. If the div has a border around it, this is not necessary as that also avoids the margin collapse */
   padding: 0;
 }
 
-/* line 62, ../sass/screen.scss */
+/* line 64, ../sass/screen.scss */
 .Header2 {
   text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 24px;
 }
-/* line 66, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 .Header2 h1 {
   text-align: center;
 }
 
-/* line 71, ../sass/screen.scss */
+/* line 73, ../sass/screen.scss */
 #nav {
   background-color: #FFF;
   padding-top: 0px;
@@ -90,16 +93,16 @@ body {
   margin: 0px;
   height: 31px;
 }
-/* line 79, ../sass/screen.scss */
+/* line 81, ../sass/screen.scss */
 #nav a {
   text-decoration: none;
   color: black;
 }
-/* line 82, ../sass/screen.scss */
+/* line 84, ../sass/screen.scss */
 #nav a:hover div {
   background-position: 0 -33px;
 }
-/* line 84, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 #nav div {
   float: left;
   width: 146px;
@@ -113,14 +116,14 @@ body {
   text-align: center;
 }
 
-/* line 96, ../sass/screen.scss */
+/* line 98, ../sass/screen.scss */
 #mainContent {
   font-family: Georgia,"Times New Roman",Times,serif;
   font-size: 14px;
   text-align: left;
 }
 
-/* line 101, ../sass/screen.scss */
+/* line 103, ../sass/screen.scss */
 .second {
   padding: 20px 20px 50px 20px;
   background-repeat: no-repeat;
@@ -128,7 +131,7 @@ body {
   background-image: url(/img/Gradient_BG.jpg);
 }
 
-/* line 107, ../sass/screen.scss */
+/* line 109, ../sass/screen.scss */
 .MC_Header {
   font-size: 18px;
   font-weight: bold;
@@ -136,7 +139,7 @@ body {
   font-style: italic;
 }
 
-/* line 113, ../sass/screen.scss */
+/* line 115, ../sass/screen.scss */
 div#splash_img {
   background-repeat: no-repeat;
   background-position: center top;
@@ -147,7 +150,7 @@ div#splash_img {
   margin-bottom: 0px;
 }
 
-/* line 122, ../sass/screen.scss */
+/* line 124, ../sass/screen.scss */
 p.mission {
   font-style: italic;
   padding: 0 80px 0 80px;
@@ -157,7 +160,7 @@ p.mission {
   text-align: center;
 }
 
-/* line 130, ../sass/screen.scss */
+/* line 132, ../sass/screen.scss */
 .Image {
   border-top-width: 2px;
   border-right-width: 2px;
@@ -170,12 +173,12 @@ p.mission {
   margin: 15px;
 }
 
-/* line 141, ../sass/screen.scss */
+/* line 143, ../sass/screen.scss */
 .clrb {
   clear: both;
 }
 
-/* line 144, ../sass/screen.scss */
+/* line 146, ../sass/screen.scss */
 table.contact_table {
   border: 0;
   align: center;
@@ -190,22 +193,19 @@ table.contact_table {
   background-color: #9B9B9B;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
-/* line 157, ../sass/screen.scss */
+/* line 159, ../sass/screen.scss */
 table.contact_table td {
   text-align: center;
   background-color: #F4FEED;
 }
 
-/* line 163, ../sass/screen.scss */
+/* line 165, ../sass/screen.scss */
 #map {
   width: 700px;
   position: relative;
   margin-right: 78px;
   margin-left: 78px;
   text-align: center;
-  border: 10px solid #9B9B9B;
-  -moz-border-radius: 15px;
-  -webkit-border-radius: 15px;
 }
 
 /* line 173, ../sass/screen.scss */
